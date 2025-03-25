@@ -25,7 +25,7 @@ Features:
   - Correlation coefficient of Crime Rate and Median Housing Price
 - Outputs results to:
   - SQLite database (output/final_data.db)
-  - CSV or JSON files (optional)
+  - CSV or JSON files (optional, output folder includes these files already generated as well)
   - Scatter plot image and correlation number (output/crime_vs_price_scatter.png)
 
 Running the ETL Script
